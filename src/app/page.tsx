@@ -1,6 +1,4 @@
-import Image from "next/image";
-
-const foo = bar
+import Image from 'next/image'
 
 export default function Home() {
   return (
