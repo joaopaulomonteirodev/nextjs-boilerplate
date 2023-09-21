@@ -1,4 +1,4 @@
-!.storybook
+.storybook
 !.jest
 build
 coverage
